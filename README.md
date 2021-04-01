@@ -1,2 +1,2 @@
 # calenderificETL
-ETL pipeline using Calenderific API, Python, SQLite, and Apache Airflow
+ETL pipeline using Calendarific API, Python, SQLite, and Apache Airflow
